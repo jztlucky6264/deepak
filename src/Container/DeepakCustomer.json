@@ -1,0 +1,94 @@
+{
+  "customer": [
+    {
+      "Account": "18765869085",
+      "Balance": 836648,
+      "Email": "sibuu@gmail.com",
+      "firstname": "Nibbi",
+      "id": 1,
+      "lastname": "Jha",
+      "userId": 1
+    },
+    {
+      "Account": "28765869085",
+      "Balance": 38746,
+      "Email": "Richa@gmail.com",
+      "firstname": "Richa",
+      "id": 2,
+      "lastname": "Roy",
+      "userId": 1
+    },
+    {
+      "Account": "28765869085",
+      "Balance": 2454,
+      "Email": "Khushi@gmail.com",
+      "firstname": "Khushi",
+      "id": 3,
+      "lastname": "Singh",
+      "userId": 1
+    },
+    {
+      "Account": "38765869085",
+      "Balance": 3173,
+      "Email": "Komal@gmail.com",
+      "firstname": "Komal",
+      "id": 4,
+      "lastname": "Jha",
+      "userId": 1
+    },
+    {
+      "Account": "48765869085",
+      "Balance": "3200",
+      "Email": "Nidhi@gmail.com",
+      "firstname": "Nidhi",
+      "id": 5,
+      "lastname": "Roy",
+      "userId": 1
+    },
+    {
+      "Account": "58765869085",
+      "Balance": "3299",
+      "Email": "AB@gmail.com",
+      "firstname": "AB",
+      "id": 6,
+      "lastname": "Roy",
+      "userId": 1
+    },
+    {
+      "Account": "68765869085",
+      "Balance": "3200",
+      "Email": "Kiran696969@gmail.com",
+      "firstname": "Kiran",
+      "id": 7,
+      "lastname": "Jha",
+      "userId": 1
+    },
+    {
+      "Account": "78765869085",
+      "Balance": "32330",
+      "Email": "Neha@gmail.com",
+      "firstname": "Neha",
+      "id": 8,
+      "lastname": "Roy",
+      "userId": 1
+    },
+    {
+      "Account": "88765869085",
+      "Balance": "3800",
+      "Email": "Priyanshi@gmail.com",
+      "firstname": "Priyanshi",
+      "id": 9,
+      "lastname": "Upadhya",
+      "userId": 1
+    },
+    {
+      "Account": "98765869085",
+      "Balance": "3200",
+      "Email": "Deepanshi@gmail.com",
+      "firstname": "Deepanshi",
+      "id": 10,
+      "lastname": "Jha",
+      "userId": 1
+    }
+  ]
+}
